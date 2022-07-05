@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="INDO", CHANNEL INFO
-https://m3u-editor.com/serve/96e546b0-fb49-11ec-8a6f-63eee6437e3b/591739234
+
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 1
 https://m3u-editor.com/serve/96e546b0-fb49-11ec-8a6f-63eee6437e3b/591739235
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV DENS
