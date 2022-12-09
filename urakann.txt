@@ -410,7 +410,180 @@ LTV Western,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2
 LTV Xiju,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 Lotus Macau,http://nettvpro.live/hls/lotustv.php
 
+dancesongs,#group#
+Vevo 00s,https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
+Vevo Pop Europa,https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+K Pop Channel,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+K Pop Channel2,https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+Retro TV,http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8?source:iptvmate.net
+*Retro Plus TV,https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+allbeckup,#group#
+ Live Streaming 1,http://210.210.155.35/x6bnqe/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
 
+ Live Streaming 2,http://210.210.155.35/uq2663/h/h998/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_2
+
+ DensPlay,http://210.210.155.35/x6bnqe/s/s101/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+ DENS Life & Style,http://210.210.155.35/dr9445/h/h01/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DENS_Life_n_Style
+http://210.210.155.35/dr9445/h/h01/01.m3u8
+
+ Dens Learning & Knowledge,http://210.210.155.35/x6bnqe/s/s36/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Learning_n_Knowledge
+
+ Dens ShowBiz,http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_ShowBiz
+http://rr3.dens.tv/s/s113/index.m3u8
+
+ Dens Food Channel,http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Food_Channel_Trial-
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8|User-Agent=Lavf/56.15.102
+
+ Metro TV,http://210.210.155.35/uq2663/h/h12/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
+
+ tvOne,http://210.210.155.35/qwr9ew/s/s105/index3.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
+
+ Kompas TV,http://210.210.155.35/qwr9ew/s/s104/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
+
+ BeritaSatu,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
+
+ SCTV,http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
+
+ Indosiar,http://210.210.155.35/qwr9ew/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
+
+ O Channel/moji,http://210.210.155.35/qwr9ew/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=OChannel
+
+ Trans TV,http://210.210.155.35/qwr9ew/s/s05/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
+
+ Trans7,http://210.210.155.35/uq2663/h/h11/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans7
+
+ antv,http://210.210.155.35/qwr9ew/s/s07/index3.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
+
+ NET.,http://210.210.155.35/qwr9ew/s/s08/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET.
+
+ RTV,#http://210.210.155.35/qwr9ew/s/s12/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
+
+ Elshinta TV,http://210.210.155.35/qwr9ew/s/s10/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
+
+ MYTV,http://210.210.155.35/x6bnqe/s/s88/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=MYTV
+
+ TVRI,http://210.210.155.35/qwr9ew/s/s11/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI
+
+ TVRI Sport
+http://210.210.155.35/qwr9ew/s/s107/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI_Sport
+http://rr2.dens.tv/s/s107/index.m3u8
+
+ Jak tv,http://210.210.155.35/x6bnqe/s/s46/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Jak_tv_Trial-
+
+ RodjaTV,http://210.210.155.35/qwr9ew/s/s14/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
+
+ DAAI TV,http://210.210.155.35/qwr9ew/s/s13/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+
+ CNA,http://210.210.155.35/uq2663/h/h29/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CNA
+
+ DUBAI International,http://210.210.155.35/uq2663/h/h152/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DUBAI_nternational
+
+ NHK WORLD-JAPAN,http://210.210.155.35/uq2663/h/h23/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NHK_WORLD-JAPAN
+
+ Al Jazeera English,http://210.210.155.35/qwr9ew/s/s17/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Al_Jazeera_English
+
+ TRT World,http://210.210.155.35/uq2663/h/h156/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
+
+ TVE,http://210.210.155.35/uq2663/h/h158/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVE
+http://rr.dens.tv/h/h158/index2.m3u8
+
+ WION (World is One News),http://210.210.155.35/uq2663/h/h91/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
+
+ UA TV,http://210.210.155.35/uq2663/h/h101/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=UA%7CTV
+
+ Al Jazeera Arabic,http://210.210.155.35/qwr9ew/s/s16/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Al_Jazeera_Arabic
+
+ CCTV-4,http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
+
+ Phoenix Chinese,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+
+ Phoenix InfoNews Channel,http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix
+
+ Shanghai Dragon,http://rr3.dens.tv/s/s29/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Shanghai_Dragon
+
+Xing Kong Int,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+
+ France 24,http://210.210.155.35/qwr9ew/s/s22/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=France_24
+
+ TV5MONDE ASIE,http://210.210.155.35/dr9445/s/s24/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_ASIE
+
+ DW TV,#http://210.210.155.35/qwr9ew/s/s26/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DW-TV
+
+ TBN (Trinity Broadcasting,http://210.210.155.35/qwr9ew/s/s39/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TBN
+
+ CGTN Documentary,http://210.210.155.35/qwr9ew/s/s20/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CGTN_Documentary
+
+ Quran TV,http://210.210.155.35/qwr9ew/s/s28/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Quran_TV
+
+ Sunna TV,http://210.210.155.35/qwr9ew/s/s27/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Sunna_TV
+
+ eGG,http://210.210.155.35/uq2663/h/h22/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=eGG_HD
+
+ ANIPLUS,http://210.210.155.35/dr9445/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
+
+ Animax,http://210.210.155.35/dr9445/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+
+ Toonmax TV,http://210.210.155.37/qwr9ew/s/s50/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Toonmax
+
+ My Kidz,http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
+
+ Kids Channel - Toonz Kids,http://210.210.155.35/x6bnqe/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
+
+ HITS,http://210.210.155.35/dr9445/h/h37/index1.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=HITS_HD
+
+ AXN,http://210.210.155.35/dr9445/h/h141/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
+
+ ROCK Entertainment,http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+
+ ROCK Extreme,http://210.210.155.35/dr9445/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
+
+ RTP International,http://210.210.155.37/qwr9ew/s/s38/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTP
+
+ KIX,http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
+
+ GEM,http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=GEM_HD
+
+ K-PLUS,http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
+
+ ONE,http://210.210.155.35/uq2663/h/h143/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ONE_HD
+
+ tvN,http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
+
+ tvN Movies,http://210.210.155.35/dr9445/h/h21/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
+
+ Celestial Movies,http://210.210.155.35/dr9445/h/h14/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Celestial_Movies
+
+ CCM (Celestial Classic Movies),http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+
+ Sinema Indonesia,http://210.210.155.37/uq2663/h/h155/index2.m3u8
+
+ Telenovela,http://210.210.155.37/uq2663/h/h153/index2.m3u8
+
+ My Cinema Asia,http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+
+ Zee Bioskop,http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
+
+ Thrill,http://210.210.155.35/qwr9ew/s/s34/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Thrill
+
+ CinemaWorld,http://210.210.155.35/uq2663/h/h04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CinemaWorld_HD
+
+ My Cinema,http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
+
+ My Cinema Europe,http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
+
+ My Family Channel,http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+
+ TV5MONDE Style,http://210.210.155.35/dr9445/h/h01/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_Style_HD
+
+ Jazz Channel - Qwest,http://210.210.155.35/uq2663/h/h94/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Jazz_Channel_-_Qwest_Trial-
+
+ FIGHT SPORTS,http://210.210.155.35/dr9445/h/h05/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=FIGHT_SPORTS_HD
+
+ Motorvision TV,http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
+
+ Bloomberg Television,http://210.210.155.35/dr9445/h/h03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Bloomberg_Television_HD
 
 
