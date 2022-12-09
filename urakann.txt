@@ -586,4 +586,37 @@ Xing Kong Int,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 
  Bloomberg Television,http://210.210.155.35/dr9445/h/h03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Bloomberg_Television_HD
 
+RACE,#race#
+MOTO GP 1,https://live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+MOTO GP 2,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+MOTO GP 2,https://s2.strea.ru/index.m3u8
+MOTO GP 3,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+F1 LIVE 1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+F1 LIVE 2,https://lele.bongstreams.com/live/adaptive_bong-7/playlist.m3u8|Referer=http://bongstreams.com/
+F1 LIVE 2,https://cdn.raino.xyz/hls/stream50.m3u8|Referer=https://bdnewszh.com/
+F1 LIVE 3,https://webudi.openhd.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+WSBK LIVE 1,https://31e598152224.us-east-1.playback.live-video.net/api/video/v1/us-east-1.906981349885.channel.77XdimbmSv36.m3u8
+WSBK LIVE 1,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+WSBK LIVE 2,https://live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+WSBK LIVE 2,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+WSBK LIVE 3,https://cdn1motogpcom.akamaized.net/hls/sbkipf/0.m3u8?hdnts=st=1668127891~exp=1668156415~acl=/hls/sbkipf/*~id=a95baa8ed1667badda573d12f1b6948e~data=R2hDUTV4aEZJamJWRXBjODBwWWlVUSUzRCUzRA~hmac=09ea0e86c98edec58f2427bfeada29243a4eba81042bb084a2e2703ce15613a3&hdnts2=st=1668127891~exp=1668156415~acl=/hls/sbkipf/*~id=a95baa8ed1667badda573d12f1b6948e~data=R2hDUTV4aEZJamJWRXBjODBwWWlVUSUzRCUzRA~hmac=09ea0e86c98edec58f2427bfeada29243a4eba81042bb084a2e2703ce15613a3&start=0&&m=1
 
+FIGHT,#group#
+1.UFC Live,https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+1.UFC Live,http://cdn.raino.xyz/hls/stream46.m3u8|Referer=http://bdnewszh.com/
+3.UFC Live,https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+4.UFC Live,https://webudi.openhd.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+4.UFC Live,https://webudi.openhd.lol/lb/premium77/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+9.Belator MMA,https://reels2watch.com/hls/m2.m3u8|Referer=https://techclips.net/
+_10.Belator MMA,http://slive.webhockey.xyz/hls/S8.m3u8|Referer=http://hockeyweb.live
+_11.ONE Fight,https://etslive-2-vidio-com.akamaized.net/exp=1668868216~acl=/hls-p/ingest_7261_*/*~hmac=acc19c14280630b610bc73a5fadc76b8fc64744868f140d10ec6823a9e6fc256/hls-p/ingest_7261_480p/index.m3u8
+_12.ONE Fight,https://etslive-2-vidio-com.akamaized.net/exp=1668869968~acl=/hls-p/ingest_7261_*/*~hmac=d43ad0dc16d15e9a5d72134b8d0780e56ef1b62ce0f78ddf1d52c33e82e304a8/hls-p/ingest_7261_480p/index.m3u8
+
+BALL,#group#
+AUS ORF 1 FHD,http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036577
+BBC 1 HD,http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
+ITV 1 HEVC,http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
+HD,http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
+BIN SPORTS MAX 3 HEVC,http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049166
+R BIN SPORTS MAX 3 4K,http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049168
+BIN SPORTS MAX 3 HD,http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049167
