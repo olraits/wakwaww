@@ -307,6 +307,78 @@ TVS HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104225
 Warner TV HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92029
 ZEE Tamil HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104240
 
-News ,#group#
+bek up,#group#
+SCTV,http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+INDOSIAR,http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+TRANSTV,http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+TRANS7,http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+KOMPASTV,http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+ANTV,http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+TVONE,http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+METROTV,http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+NETTV,http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+RTV,http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
+TVRI,http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+BERITASATU,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+BERITASATUWORLD,https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+BERITASATUENGLISH,https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+MYTV,http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
+OCHANNEL/MOJI,http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
+JAKTV,http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
+DAAITV,http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+ELSHINTATV,http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+RODJATV,http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
+QURANTV,http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+SUNNAHTV,http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+ANIPLUS,http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+ANIMAX,http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+MKIDZ,http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
+TOONKIDZ,http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
+HITS,http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+AXN,http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+ROCKENTERTAINMENT,http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+ROCKEXTREME,http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+KIX_ASIA,http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+GEM,http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+K+,http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+ONE_ASIA,http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+TVN_ASIA,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+TVN_MOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+CELESTIAL_MOVIES,http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
+CCM,http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+ZEEBIOSKOP,http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+THRILL,http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+CINEMAWORLD,http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+MY_CINEMA_ASIA,http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
+MY_FAMILY_CINEMA,http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
+MY_CINEMA_EUROPA,http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+MY_CINEMA,http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
+PLAY,http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
+DFC,http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
+LIFESTYLE,http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
+LEARNING&KNOWLEDGE,http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
+SHOWBIZ,http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
+CNA,http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
+NHKWORLD,http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+ALJAZEERAENGLISH,http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
+TRTWORLD,http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
+WION,http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
+UA,http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
+ALJAZEERA,http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
+CCTV4,http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
+FRANCE24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+TV5MONDE,http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
+DWTV,http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+CGTNDOCUMENTARY,http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
+BLOOMBERGTV,http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
+STYLE,http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
+FIGHTSPORTS,http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+MOTORVISIONTV,http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+EGGNETWORK,http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+TVKU,http://103.30.1.14:8080/hls/live.m3u8
+ADITV,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+TATV,https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+
+
 
 
