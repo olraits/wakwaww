@@ -265,6 +265,315 @@ Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3
 WOWOW Cinema (720p),http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
 Wu Tang Collection (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
++62,#group#
+RCTI+_,https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+MNCTV+_,https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+GTV+_,https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+INEWS+_,https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
+sctv_vi,http://mpwtv.my.id/vidioye/204-sctv.m3u8
+INDOSIAR_L,http://xtv.ooo:8080/Mohammad/Mohammad123/228289
+indosiar_vi,http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+Badminton1,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1658610734~exp=9007200913351725~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=1a391d24f8a3fe045b6553920daa8fcfec1bfac57cf53b142ba3d75745b816f8
+Badminton2(SPOtv2),https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1661229313~exp=9007200915970304~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_2/chunklist.m3u8*~hmac=5add8fefae5ca1c5c402eff5e90762353478fee6f5607d4894ab420efd0a7b7f
+Eleven_1_ta,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+Eleven_2_tai,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+SPOtv,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656208805~exp=9007200910949796~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=181053f73f2b60c4c09d07fcbee45eeb3603c78d966f9810f190f8b31574cba2
+SPOtv2,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
+Prem_Football_1,http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
+Premier_Football_1x,http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115759
+Vremier_Football_2.H,http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
+Vremier_Football_2 HD,http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
+cine_MOVIES,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+Lotus_Mac,http://nettvpro.live/hls/lotustv.php
+TV_6.http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+Champions TV HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92780
+UsSport.1,https://bit.ly/shareextUseeSport
+UsSport.2,https://bit.ly/shareextUseeSport2
+ABC Australia,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13410
+AlJazeera En,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13413
+AlQuran Al Karem,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13414
+Animal Planet,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13415
+Animax,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13416
+ANIPlus,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13519
+Arirang Korea,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13417
+Asian Food Chan,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13520
+AXn HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13412
+Baby TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13421
+Bali TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13422
+BBC Earth,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13419
+BBC World News,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13420
+Berita Satu,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13423
+Besmart,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13424
+Bloomberg,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13425
+Boomerang 1,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13426
+Cartoon Network,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13431
+CCM,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13427
+Ctv4,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13428
+Celestial Movies,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13432
+Cinema World,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13433
+CNN,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13430
+CNN Indonesia,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13516
+Crime Investigatio,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13435
+Daai TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13438
+Discovery Channel,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13439
+Disney Channel,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13440
+Drama Channel,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13442
+DW,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13437
+EuroNews,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13445
+
+Mixiu,#group#
+EWTN,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13444
+Fashion TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13517
+Fight Sports,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13448
+FMN,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13446
+HBO FAMILY,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13512
+HBO HITS,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13511
+HBO,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13513
+HBO Signature,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13510
+HGTV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13462
+History,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13464
+Hits,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13465
+Hits Movies,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13466
+GTV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/64345
+MNC TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/64344
+GTVhd,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13461
+iNews,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13538
+Infotainmen,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13469
+MNC Channel,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13477
+MNC Entertain,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13478
+MNC News,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13479
+MNC Shop Smar,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13480
+MNC Shop Trendy,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13481
+RBTV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13501
+RCTI,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13494
+Trans TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13523
+Trans7,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13524
+TV One,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13505
+TV5Mond,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13540
+TV9,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13506
+TVN Movies,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13507
+tvOne,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13497
+Warner TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13528
+Wesal TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13525
+Zee Bioskop,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13529
+Zee Cinemahttp://daddyserver.com:8080/@blades41/qTyguNhMRK/13530
+Zee News,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13531
+Zee TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13532
+Zing,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13533
+TVRI,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13515
+IDX,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13467
+Jak TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13471
+Kids Channel,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13473
+KIX,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13472
+Kompas TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13474
+Life,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13475
+Life Style Fashion,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13476
+Lifetime,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13509
+Metro TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13485
+MiaoMI,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13486
+Music Channel,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13487
+MYTV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13484
+Nat Geo,http,://daddyserver.com:8080/@blades41/qTyguNhMRK/13490
+NET.,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13488
+News Asia Channe,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13491
+NHK World Jahttp://daddyserver.com:8080/@blades41/qTyguNhMRK/13489
+Nick,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13492
+Reformed 21,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13449
+RRI NET,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13539
+RTV5,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13496
+SCM Legen,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13498
+SCTV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13499
+Sky New,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13500
+Sony One,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13502
+Tegar,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13542
+Thril,http://daddyserver.com:8080/@blades41/qTyguNhMRK/13522
+ASROc SSport FHD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92053
+ASROc SSport 2 FHD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92003
+ASROc SSport 3 FHD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92034
+ASROc SSport 4 FHD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92022
+ASROc SSport 5 FHD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92012
+ASRO Cricket HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/40339
+beINSports HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92044
+beINSports 3 HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92037
+eGG Network HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92027
+Eurosport HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92001
+Golf Channel HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92017
+SpoTV HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104231
+Rugby Pass TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104270
+WWE Network HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91996
+Animal Planet HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92039
+Animax HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91995
+Aniplus,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92062
+AOD 311 HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104246
+AOD 352,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104247
+AOD 353,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104248
+AOD 354,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104249
+AOD 355,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104250
+ASTRO Arena 2 FHD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/130090
+ASTRO Arena FHD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92028
+Aura HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104233
+Awani HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92058
+Boo,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104258
+Box Office Movies BollyOne,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104243
+Box Office Movies Thangathirai,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104242
+Ceria HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92030
+ASTRO Cricket HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/40339
+GoShop Baaru HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92049
+GoShop Chinese HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91993
+GoShop Gaaya HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92019
+GoShop Ruuma HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92024
+Hello HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92031
+iQIYI HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91994
+Oasis HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92021
+Prima HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91989
+Quan Jia HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92023
+Rania HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104232
+Shuang Xing HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104272
+tvN Movies HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92016
+tvN HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91990
+Vaanavil HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92013
+Vinmeen HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92004
+Warna HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92015
+Xiao Tai Yang HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92040
+Awesome TV HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104226
+AXN HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92008
+BBC Earth HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104254
+BBC Lifestyle HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91991
+BBC World News HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104260
+Bernama TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91998
+Bloomberg HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104265
+Boomerang HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104269
+Cartoon Network HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92051
+CCM,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91988
+CTV-4 HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92043
+Celestial Movies HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104244
+CGTN HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92000
+Chutti TV,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104237
+Cinemax HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92054
+CNA HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104263
+Colors Tamil HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104241
+Colors HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92033
+Crime + Investigation HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92005
+CTI Asia HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104251
+Discovery Asia HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104268
+Discovery Science HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92050
+Discovery HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92025
+DMAX HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92032
+DW HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92065
+HBO HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92009
+HGTV HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92020
+History HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92055
+HITS Movies HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92010
+HITS HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92056
+KBS World HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92011
+KPlus HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92064
+MTV Asia HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91999
+Nat Geo Wild HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92002
+National Geographic HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92052
+NHK World Premium HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104257
+Nick Jr,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92063
+Nickelodeon HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92026
+NTV7,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104227
+ONE HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92035
+Paramount Network HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/93320
+Phoenix Chinese Channel HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104255
+Phoenix InfoNews,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104256
+RTM Berita,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104223
+RTM TV Okey,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92047
+RTM TV1 HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92018
+RTM TV2,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104222
+RTM TV3 HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104224
+Showcase Movies HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92057
+Sky News HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104262
+Star Vijay HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104239
+Sun Music H,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104236
+Sun TV HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104235
+TA-DAA! HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104267
+TLC HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92038
+TV Alhijrah HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/91997
+TV9 HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104229
+TVB Classic HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92060
+TVB Entertainment News HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104230
+TVB Jade HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104245
+TVB Xing He HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104252
+TVBS Asia HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104253
+TVS HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104225
+Warner TV HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/92029
+ZEE Tamil HD,http://daddyserver.com:8080/@blades41/qTyguNhMRK/104240
+
+bek up,#group#
+SCTV,http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+INDOSIAR,http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+TRANSTV,http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+TRANS7,http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+KOMPASTV,http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+ANTV,http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+TVONE,http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+METROTV,http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+NETTV,http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+RTV,http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
+TVRI,http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+BERITASATU,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+BERITASATUWORLD,https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+BERITASATUENGLISH,https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+MYTV,http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
+OCHANNEL/MOJI,http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
+JAKTV,http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
+DAAITV,http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+ELSHINTATV,http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+RODJATV,http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
+QURANTV,http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+SUNNAHTV,http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+ANIPLUS,http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+ANIMAX,http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+MKIDZ,http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
+TOONKIDZ,http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
+HITS,http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+AXN,http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+ROCKENTERTAINMENT,http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+ROCKEXTREME,http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+KIX_ASIA,http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+GEM,http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+K+,http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+ONE_ASIA,http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+TVN_ASIA,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+TVN_MOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+CELESTIAL_MOVIES,http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
+CCM,http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+ZEEBIOSKOP,http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+THRILL,http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+CINEMAWORLD,http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+MY_CINEMA_ASIA,http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
+MY_FAMILY_CINEMA,http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
+MY_CINEMA_EUROPA,http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+MY_CINEMA,http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
+PLAY,http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
+DFC,http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
+LIFESTYLE,http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
+LEARNING&KNOWLEDGE,http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
+SHOWBIZ,http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
+CNA,http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
+NHKWORLD,http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+ALJAZEERAENGLISH,http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
+TRTWORLD,http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
+WION,http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
+UA,http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
+ALJAZEERA,http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
+CCTV4,http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
+FRANCE24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+TV5MONDE,http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
+DWTV,http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+CGTNDOCUMENTARY,http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
+BLOOMBERGTV,http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
+STYLE,http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
+FIGHTSPORTS,http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+MOTORVISIONTV,http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+EGGNETWORK,http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+TVKU,http://103.30.1.14:8080/hls/live.m3u8
+ADITV,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+TATV,https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+
+
 worldsVIPS,#genre#
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 ANIMAL PLANET HD,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
