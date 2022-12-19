@@ -1,3 +1,299 @@
+Globalworld,#genre#
+Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+AfricaNews,https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+AFV Family,https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+Australia Channel News,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+BBC World News,BBC News,http://ip2121.com:8081/live/bbc/playlist.m3u8#https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8#http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/bbcnews_twn/playlist.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+BBC World News,http://78.83.191.18:8000/play/a07a
+BBC World News,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
+BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+
+Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
+Bloomberg Quicktake (1080p),https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
+Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
+Bloomberg TV Asia (720p),https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+Bloomberg TV Australia (720p),https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+Bloomberg TV Australia (270p),https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
+Bloomberg TV Europe (720p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+Bloomberg TV Europe (720p),https://bloomberg.com/media-manifest/streams/eu.m3u8
+Bloomberg TV Europe (360p),https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+Bloomberg TV US (1080p),https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV US (720p),https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bloomberg TV US (720p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
+Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6#https://list.iptvcat.com/my_list/s/b4a3e8de2af3cdd1d00c2e02fa126cd9.m3u8#http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN International Europe (720p),https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+CNN,http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/cnn_twn/playlist.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Duck TV,https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
+
+DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+DW News,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+DW News,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+Euronews,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8#https://euronews.alteox.app/hls/en_stream.m3u8
+Euronews,https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+Euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
+FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+France 24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
+
+France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+France 24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+France 24,http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
+Foxnews,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Gusto TV,https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
+Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+Mav TV Motorsports Network,https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
+FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Red Bull TV UHD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
+
+RT America,https://rt-usa.rttv.com/live/rtusa/playlist.m3u8
+RT UK,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+Sky News,http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+Sky News,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+The Guardian,https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+The Wall Street Journal Live,https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
+WION,https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOXSport2,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FOXSport3,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+FOXLife,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+KBS World,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
+Pluto TV News,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
+
+
+Circle (1080p),https://circle-samsung.amagi.tv/playlist.m3u8
+Clarity 4K (2160p),https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+Crime 360 (720p),https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+Degrassi The Next Generation (720p),https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
+Estrella News (1080p),https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+FailArmy (720p),https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+Fox Soul (1080p),https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+FTF (720p),https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
+HSN (720p),https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+IGN (1080p),https://ign-samsungus.amagi.tv/playlist.m3u8
+Insight TV (720p),https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+Insight TV (720p),https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+InTrouble (1080p),https://introuble-samsung.amagi.tv/playlist.m3u8
+InWonder (720p),https://inwonder-samsung-us.amagi.tv/playlist.m3u8
+Ion Plus (1080p),https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+ION Plus,https://ion-plus.samsung.wurl.com/playlist.m3u8
+ION,https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+Law & Crime (720p),http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+Lively Place (720p),https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+Midnight Pulp (720p),https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+MovieSphere (1080p),https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+MyTime movie network (1080p),https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+Newsmax (1080p),https://newsmax-samsungus.amagi.tv/playlist.m3u8
+Outside TV (720p),https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+Pursuit Up (720p),https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+QVC (720p),https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+Shout! Factory TV (720p),https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
+Stadium (720p),https://stadium.samsung.wurl.com/manifest/playlist.m3u8
+Stingray Naturescape (1080p),https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+The Pet Collective (720p),https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+The Young Turks (TYT) (720p),https://tyt-samsungus.amagi.tv/playlist.m3u8
+VENN (1080p),https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+WeatherSpy,https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
+WeatherSpy (720p),https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+Xplore (1080p),http://xlpore-samsungus.amagi.tv/playlist.m3u8
+Yahoo! Finance (1080p),https://yahoo-samsung.amagi.tv/playlist.m3u8
+Young Hollywood (720p),https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+Cheddar News (720p),https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+EDGEsport (1080p),https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+EDGEsport (1080p),https://edgesport-samsungus.amagi.tv/playlist.m3u8
+EDGEsport (US) (720p),https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+ESTV (1080p),https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+Fuel TV (720p),https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
+Gusto TV (720p),https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
+Pac 12 Insider (1080p),https://pac12-samsungus.amagi.tv/playlist.m3u8
+SportsGrid (1080p),https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+Yahoo! Finance(1080p),https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+TD Ameritrade Network(1080p),https://tdameritrade-distro.amagi.tv/playlistR1080p.m3u8
+Chicken Soup For The Soul(1080p),https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
+Comedy Channel(1080p),https://uksono1-samsunguk.amagi.tv/playlist1080p.m3u8
+NBC News Now(1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/chunklist.m3u8
+Newsy (1080p),https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+Smithsonian Channel Asia (1080p),https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+Unbeaten (1080p),https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
+FIGHT SPORTS(1080p),https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+A3 Bikini TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Victoria S Secret TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+Fox 23 Tulsa OK (KOKI-TV) (720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+Fox 28 Savannah GA (WTGS) (720p),https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+Fox Boston MA (WFXT1) (720p) [Not 24/7],http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
+Fox Buffalo NY (WUTV1) (720p),http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+Fox Crime Adria [Offline],https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+Fox Greece (240p) [Not 24/7],http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+like Gecko Chrome/76.0.3809.25 Safari/537.36,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+Fox News Channel (720p),http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8
+Fox News Radio (720p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+FOX Rochester NY (WUHF-DT1) (720p),http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
+Fox Seattle WA (KCPQ1) (720p),http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
+FOX Spokane WA (KAYU-TV1) (720p),http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
+Fox Tallahassee FL (WTWC-TV2) (720p),https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
+ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+ABC 4 Seattle WA (KOMO-TV) (720p),https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+ABC 7 Denver CO (KMGH) (720p),https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+ABC 7 Los Angeles CA (KABC-TV) (720p),https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+ABC 7 Washington DC (WJLA) (720p),https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+ABC 9 Orlando FL (WFTV) (720p),https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+ABC 13 Las Vegas NV (KTNV) (720p),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+ABC 15 Phoenix AZ (KNXV-TV) (720p),https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+ABC News (720p),https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+ABC News Live 3 (720p),https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+ABC News Live 4 (720p),https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+ABC News Live 5 (720p),https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+ABC News Live 6 (720p),https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+ABC News New York NY (WABC-TV) (720p),https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+CBS NY,https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-1&x=1
+CBS SAN FRANCISCO,https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-1&x=1
+CBS 5 ARIZONA,https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-1&x=1
+NBC NY,https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
+NBC 4 LA,https://v-la.mybtv.net/live/82.m3u8?env=prd&uid=-1&x=1
+NBC SAN FRANCISCO,https://v-ca.mybtv.net/live/121.m3u8?env=prd&uid=-1&x=1
+FOX NY,https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-1&x=1
+Fox CFB LA,https://v-la.mybtv.net/live/166.m3u8?env=prd&uid=-1&x=1
+Fox SAN FRANCISCO,https://v-ca.mybtv.net/live/170.m3u8?env=prd&uid=-1&x=1
+Fox 10 Arizona,https://v-px.mybtv.net/live/14.m3u8?env=prd&uid=-1&x=1
+ABC NY,https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
+ABC LA,https://v-la.mybtv.net/live/88.m3u8?env=prd&uid=-1&x=1
+ABC Localish LA,https://v-la.mybtv.net/live/89.m3u8?env=prd&uid=-1&x=1
+ABC SAN FRANCISCO,https://v-ca.mybtv.net/live/119.m3u8?env=prd&uid=-1&x=1
+
+Movies,#genre#
+Sony Pix HD,#https://tv.googledrivelinks.com/live.php?c=Sony_Pix_SD&q=1200&e=junk.m3u8
+Sony Pix HD,http://103.143.235.50/sonypixhd/tracks-v1a1/mono.m3u8
+Lotus Macau,http://anren.live/HK/BiIOU11uLA.m3u8
+HBO,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+KIX,http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+Cinema World,http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+My Cinema,http://210.210.155.35/uq2663/h/h192/index.m3u8
+Movies Kingdom,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+Flix,http://b1g.one//live/40404040/60606060/8021.ts
+Netflix Movies,http://starshare.live:8080//live/24321463/35245125/29365.ts
+Netflix Movies-2,http://starshare.live:8080//live/24321463/35245125/29366.ts
+
+24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+Moovimex (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+Movie box,https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+Movie Kingdom (720p),https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+Movie Plus (540p),http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
+MovieFe (360p) [Not 24/7],https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+MovieSphere (1080p),https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+My Cinema (1080p),http://210.210.155.37/uq2663/h/h192/index.m3u8
+My Cinema Asia (1080p) [Geo-blocked],http://210.210.155.37/uq2663/h/h193/index.m3u8
+My Cinema Europe (576p),http://210.210.155.37/uq2663/h/h18/index.m3u8
+Mythos,https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8
+MyTime movie network (1080p),https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+MyTime movie network Brazil (720p),https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+MyTime movie network Mexico (720p),https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+MyTime movie network Spain (1080p),https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+NETV Toronto (720p) [Not 24/7],https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+Rai Movie (576p) [Geo-blocked],https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+Rakuten Action Movies,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+Rakuten Action Movies Germany (720p),https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action Movies Italy (720p),https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action Movies UK (720p),https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Austria (720p),https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies France (720p),https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Germany (720p),https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Italy (720p),https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Spain (720p),https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies UK (720p),https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Drama,https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8
+Rakuten Family,https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
+Rakuten Family (720p),https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+Rakuten Family UK (720p),https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight Austria (720p),https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight France (720p),https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten Spotlight Germany (720p),https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight Italy (720p),https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight Spain (720p),https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight UK (720p),https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Draama,https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Films Action (720p),https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten TV Huippuelokuvat,https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Komedia,https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Perhe,https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Rakuten Stories,https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Toiminta,https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
+Redbox 1: Spotlight (1080p),https://spotlight-redbox.amagi.tv/playlist.m3u8
+Retro Plus 3 (720p),https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+Rotana Cinema (1080p),https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Rotana Cinema KSA (1080p),https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+Weyyak Action (1080p),https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+Weyyak Drama (720p),https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+WOWOW Cinema (720p),http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
+Wu Tang Collection (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+
+worldsVIPS,#genre#
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+ANIMAL PLANET HD,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+AXN HD,https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+BABY FIRST HD,https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+BABY TV HD,https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+BBC EARTH HD,https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+BBC LIFESTYLE,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BLUE ANT ENTERTAINMENT HD,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+BLUE ANT EXTREME HD,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+BOOMERANG HD,https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+CBEEBIES HD,https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+CINEMAX HD,https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+CNBC,https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+DA VINCI HD,https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+DISCOVERY ASIA HD,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+DISCOVERY CHANNEL HD,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+DW HD,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+HBO HD,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+KIX HD,https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+NHK WORLD JAPAN HD,https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+OUTDOOR CHANNEL HD,https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+TLC HD,https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+摇滚娱乐,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
+摇滚至尊,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
+FTV④,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FTV④,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
+Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
 Malay,#genre#											
 AEC-1,mitv://ns2.hellotvvod.com:9906/572c349f3a0f4ae79c7fe5453d3366d1
 AEC-2,mitv://ns2.hellotvvod.com:9906/c9f8db6da171427cb8ddb12326aad849
